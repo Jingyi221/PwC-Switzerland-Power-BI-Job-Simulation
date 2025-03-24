@@ -1,9 +1,10 @@
 Task 1 - Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+-Overall customer satisfaction
+-Overall calls answered/abandoned
+-Calls by time
+-Average speed of answer
+-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 Task 2 - A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
@@ -25,13 +26,13 @@ Think about the importance of strategy, awareness and education, analytics and i
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
-# of men
-# of women
-# of leavers
-% employees promoted (FY21)
-% of women promoted
-% of hires men
-% of hires women
-% turnover 
-Average performance rating: men
-Average Performance rating: women
+-# of men
+-# of women
+-# of leavers
+-% employees promoted (FY21)
+-% of women promoted
+-% of hires men
+-% of hires women
+-% turnover 
+-Average performance rating: men
+-Average Performance rating: women
